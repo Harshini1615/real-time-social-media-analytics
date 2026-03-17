@@ -36,8 +36,3 @@ streamlit run dashboard/app.py
 ## 👩‍💻 Author
 Sri Harshini Botcha
 
-## 📊 Dashboard Output
-
-Here is the live real-time dashboard showing tweets streaming every second:
-
-![Dashboard Output](screenshots/output.png)
